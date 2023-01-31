@@ -1,0 +1,67 @@
+/* .box {
+    width: 80%;
+    margin: auto;
+    text-align: right;
+    margin-top: 20px;
+    position: relative;
+}
+.box a {
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+    padding: 9px 30px;
+}
+
+.box .sing-in {
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #555;
+    position: absolute;
+    top: 45px;
+    right: 0px;
+
+} */
+
+.rasel {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    text-align: right;
+    position: relative;
+}
+.rasel a {
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #333;
+    font-weight: 700;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+
+.rasel .sign-in{
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 200px;
+    border: 1px solid #333;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #555;
+    display: block;
+}
+.sign-in input {
+    padding: 5px 0;
+}
+.sign-in input:nth-child(4) {
+    margin-top: 7px;
+}
+button {
+    margin-top: 7px;
+}
